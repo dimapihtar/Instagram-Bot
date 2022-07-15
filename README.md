@@ -17,4 +17,4 @@ This project has a few functions:
     - Pandas (```pip install pandas```)
     
 # Usage
-Just run the main script (```python main.py```) with your proxy-server settings and Instagram login data. Change message text and usernames list you want to save message. Pay attention on keeping sleep time after some actions in Instagram. It avoids to be recognized as bot.
+Just run the main script (```python main.py```) with your proxy-server settings and Instagram login data. Change message text and usernames list you want to send message. Pay attention on keeping sleep time after some actions in Instagram. It avoids you to be recognized as bot.
